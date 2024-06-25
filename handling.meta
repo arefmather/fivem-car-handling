@@ -11,4 +11,4 @@
 <fTractionCurveMin value="1.690000" /> | Aracın yer ile yapışmasını ayarlar.
 <fSuspensionRaise value="-0.010000" /> | Aracın basıklığını ayarlayabilirsiniz.
 <fRollCentreHeightFront value="0.050000" /> | Aracın dönerken ne kadar yatacağını keskin döneceğini ayarlar, arttırırsanız araba daha az azaltırsanız daha çok yatar.
-<fRollCentreHeightRear value="0.050000" />
+<fRollCentreHeightRear value="0.050000" /> | Aracın dönerken ne kadar yatacağını keskin döneceğini ayarlar, arttırırsanız araba daha az azaltırsanız daha çok yatar.
